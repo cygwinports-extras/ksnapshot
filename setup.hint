@@ -1,0 +1,4 @@
+category: Graphics KDE
+requires: libgcc1 libkdecore5 libkipi8 libQtCore4 libQtDBus4 libQtGui4 libstdc++6 libX11_6 libXext6 libXfixes3
+sdesc: "KDE screenshot tool"
+ldesc: "KDE graphics suite"
